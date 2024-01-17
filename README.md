@@ -5,4 +5,6 @@ The file "exp.ipynb" contains codes for experiments in the main text of the pape
 
 Running "exp.ipynb" and "exp-linesearch.ipynb" will create raw data in the "raw_data" folder. After the raw data are in place, running "plotting.ipynb" and "plotting-linesearch.ipynb" will save plots in the "figures" folder. 
 
+You may need to manually create the folder "raw_data" and or "figures" on your local repo. 
+
 Please contact wangtianyu@fudan.edu.cn or ysfeng20@fudan.edu.cn if you have any questions. 
